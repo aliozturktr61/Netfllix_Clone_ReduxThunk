@@ -18,3 +18,4 @@
 
 - API:https://www.themoviedb.org/# Netfllix_Clone_ReduxThunk
 - API key .env dosyası içerisinde gizlenmiştir.
+  ![netflixclone-min](https://github.com/user-attachments/assets/673d7ef6-864c-4b97-bcdb-16b83dd21f56)
